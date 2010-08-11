@@ -1,4 +1,4 @@
-package Data::Koyomi::Nikkan;
+package Data::Koyomi::Nikkanshi;
 use strict;
 use warnings;
 use utf8;
